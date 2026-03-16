@@ -421,6 +421,6 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? true
  :orphan-pages? true
- :builtin-pages? false}
+ :builtin-pages? true}
  :graph/forcesettings {:link-dist 40
  :charge-range 1700}}
