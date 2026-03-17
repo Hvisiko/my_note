@@ -1,0 +1,5 @@
+- links:
+	- 【【黑皮Nancy教学】time machine吉他弹唱教程 南音吉他小屋】 https://www.bilibili.com/video/BV1AWK6zDEw9/?share_source=copy_web&vd_source=2878efc113b2b7866cf40e97680fe838
+- [[GUITAR]]
+- #unstable
+-

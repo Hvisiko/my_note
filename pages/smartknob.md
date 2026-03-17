@@ -1,0 +1,12 @@
+- 有力反饋的旋轉按鈕
+- 開發原型使用的設備
+	- stm32黑藥丸
+	- stlink
+	- 2204無刷電機
+	- 磁編碼器
+	- 逕向磁鐵
+- links:
+	- https://oshwhub.com/ran-pang/knob
+- [[project]]
+- #unstable
+-
