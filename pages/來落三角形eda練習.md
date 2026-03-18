@@ -1,0 +1,4 @@
+- links:
+	- https://oshwhub.com/45coll/zi-ping-heng-di-lai-luo-san-jiao_10-10-ban-ben
+- [[EDA]]
+- #unstable

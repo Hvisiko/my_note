@@ -1,0 +1,8 @@
+- links:
+	- 個人練細紀錄：
+		- {{video https://www.youtube.com/watch?v=aKTFxFpGB-s}}
+	- 教學鏈接：
+		- 【吉他教程Kate Bush - Running Up That Hill怪奇物语插曲】 https://www.bilibili.com/video/BV1be4y1D7xA/?share_source=copy_web&vd_source=2878efc113b2b7866cf40e97680fe838
+- [[GUITAR]]
+- #[[pro challenge]]
+-

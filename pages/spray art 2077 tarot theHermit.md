@@ -1,0 +1,5 @@
+- links:
+	- ![TarotCard_10_TheHermit](https://static.wikia.nocookie.net/cyberpunk/images/4/4f/TarotCard_10_TheHermit.png/revision/latest/scale-to-width-down/1000?cb=20210103220946)
+- [[art]]
+- #unstable
+-

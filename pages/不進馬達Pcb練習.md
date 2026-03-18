@@ -1,0 +1,5 @@
+- links:
+	- https://github.com/unlir/XDrive/blob/master/Hardware/X_Drive_sch.pdf
+	-
+- [[EDA]]
+-
