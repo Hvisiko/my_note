@@ -1,3 +1,5 @@
 - Links
 	- 【听完治愈一天的坏心情《Sacred Play Secret Place》吉他指弹【神圣的游戏秘密场所】】 https://www.bilibili.com/video/BV1e2GfzuEWX/?share_source=copy_web&vd_source=2878efc113b2b7866cf40e97680fe838
 - [[GUITAR]]
+- #unstable
+-

@@ -1,0 +1,5 @@
+- links
+	- 【一次教你3个硬币消失手法！学会哄女朋友！】 https://www.bilibili.com/video/BV1Aw411q7pC/?share_source=copy_web&vd_source=2878efc113b2b7866cf40e97680fe838
+- [[magic]]
+- #unstable
+-
