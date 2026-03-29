@@ -1,0 +1,3 @@
+- First, you must need to know how it works, understanding as many details as possible. If possible, imagine all the progress in your mind, asking what move should i do. Once you can make it, you can likely go on building.
+- Second, dismantle the complicate target in to small problems
+- Third, modular your knowledges. Keeping the knowledges and tools is really useful
