@@ -1,5 +1,0 @@
-- 沒有完整譜
-- links:
-	- {{video https://www.youtube.com/watch?v=jH7XWFT41L4&list=PLHl2DLrlv84k8_ZoyuBcrU2x9hNS657uH&index=7}}
-- [[GUITAR]]
-- #unstable
