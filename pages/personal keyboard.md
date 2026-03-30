@@ -1,5 +1,5 @@
 - links
 	- https://github.com/peng-zhihui/HelloWord-Keyboard
-- [[project]]
+- #EDA
 - #unstable
 -

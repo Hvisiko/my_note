@@ -6,6 +6,8 @@
 	- 磁編碼器
 	- 逕向磁鐵
 -
-- [[project]]
+- #EDA
+-
+-
 - #unstable
 -
