@@ -9,17 +9,14 @@
 - [[GUITAR]]
 - #[[pro challenge]]
 - chords
-  collapsed:: true
 	- ![image.png](../assets/image_1774849960626_0.png) ![image.png](../assets/image_1774850783759_0.png)
 	- ![image.png](../assets/image_1774849977603_0.png) ![image.png](../assets/image_1774850817694_0.png)
 	- ![image.png](../assets/image_1774849998987_0.png) ![image.png](../assets/image_1774850710694_0.png)
 - 掃弦
-  collapsed:: true
 	- ![image.png](../assets/image_1774850227698_0.png)
 	- 大小大小大小小擦擦
 	- 大小大嚓嚓嚓嚓大小擦擦
 - song
-  collapsed:: true
 	- capo 3
 	- intro
 		- pic
@@ -39,7 +36,7 @@
 	- verse2
 		-
 	- second chorus
-		- ![image.png](../assets/image_1774851217637_0.png)
+		- ![image.png](../assets/image_1774851217637_0.png){:height 105, :width 354}
 		- ![image.png](../assets/image_1774851786319_0.png)
 		- 節奏同樣的四組和弦 小小大小
 		- 不同的和弦 小下下上 or 下小下上
@@ -50,7 +47,6 @@
 - fgafgaafgafgafg
 - aefgaefgaefg
 - lyrics
-  collapsed:: true
 	- https://tabs.ultimate-guitar.com/tab/kate-bush/running-up-that-hill-chords-1520628
 	- It doesn't hurt me (yeah, yeah, yo)
 	  Do you wanna feel how it feels? (Yeah, yeah, yo)

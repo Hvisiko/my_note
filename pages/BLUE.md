@@ -1,7 +1,11 @@
 - 沒有完整譜
 - links:
 	- {{video https://www.youtube.com/watch?v=do4loFrrmf0&list=RDdo4loFrrmf0&start_radio=1}}
-	-
+- ![image.png](../assets/image_1774875628484_0.png)
+- ![image.png](../assets/image_1774875644573_0.png)
+- ![image.png](../assets/image_1774875671908_0.png)
+- ![image.png](../assets/image_1774875696841_0.png)
+-
 - [[GUITAR]]
 - #unstable
 -
